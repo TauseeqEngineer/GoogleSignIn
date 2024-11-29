@@ -32,7 +32,4 @@ Before you begin, ensure you have the following installed and configured:
 ### 4. **Add Firebase SDK to Your Project**:
    - Open your `build.gradle` files and add the necessary Firebase and Google Play services dependencies.
 
-### Key Changes:
-- **Added instructions for adding the `client_id`** into the `strings.xml` file **.
-- Provided clear steps for adding the **Web Client ID** into the `strings.xml` file securely.
 
